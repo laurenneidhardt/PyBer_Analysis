@@ -3,7 +3,7 @@
 The purpose of this data analysis is to supply PyBer with insights into their business regarding the types of cities they are operating within, the frequency of rides within those city types and the overall fares associated with the rides. 
 
 ## Results: ##
-# We analyzed data by city types, rural vs suburban vs urban. There are clear patterns that appear in the data, as shown below: #
+### We analyzed data by city types, rural vs suburban vs urban. There are clear patterns that appear in the data, as shown below: ###
 
 *As one would guess, far more rides were given in urban areas, probably due to lack of parking, shorter distances between stops and possibly a bigger nightlife.
 
@@ -24,7 +24,7 @@ The purpose of this data analysis is to supply PyBer with insights into their bu
 
 ## Summary: ##
 
-# Three recommendations I would like to make: #
+### Three recommendations I would like to make: ###
 1. In rural or suburban areas could you potentially lower your fares to make taking PyBer more economical for the customer? One avoidance to using your service could potentially be the high cost of going a long distance. Maybe set up zones where the farther the ride mileage the fare lowers.
 2. If you want to focus your business on your money-maker, the urban areas, do you have enough drivers? Are you able to adequately meet demand? Would it be advantageous to pull drivers from the suburban cities with some incentive to drive in the urban areas (more analysis is needed).
 3. It appears the demand is trending down towards the summer in rural areas, possibly employ more of those drivers in your higher performing suburban or urban areas? 
